@@ -1,6 +1,7 @@
 .Dictionary {
-  margin: 100px 0;
+  margin: 100px auto;
   text-align: left;
+  max-width: 960px;
 }
 
 .Dictionary section {
