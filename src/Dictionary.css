@@ -30,3 +30,11 @@
 .Dictionary form {
   text-align: center;
 }
+
+.Dictionary .submit-btn {
+  width: 70px;
+  border-radius: 4px;
+  color: #ddd;
+  background-color: #596981;
+  margin: 4px;
+}

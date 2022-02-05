@@ -12,8 +12,8 @@
 }
 
 .Phonetic a:hover {
-  color: wheat;
-  background-color: tomato;
+  color: #ddd;
+  background-color: #596981;
 }
 
 .Phonetic .text {
