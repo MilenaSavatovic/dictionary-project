@@ -22,4 +22,9 @@
 .Dictionary .hint {
   font-size: 11px;
   margin-top: 5px;
+  text-align: center;
+}
+
+.Dictionary form {
+  text-align: center;
 }
