@@ -1,5 +1,11 @@
 a {
-  color: rgb(123, 97, 9);
+  color: #333;
+  text-decoration: none;
+  margin-left: 5px;
+}
+
+a:hover {
+  color: #ddd;
 }
 
 body {
@@ -9,4 +15,9 @@ body {
   background-repeat: repeat;
   background-size: cover;
   position: relative;
+}
+
+.App footer {
+  margin-bottom: 100px;
+  color: #ddd;
 }

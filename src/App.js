@@ -9,7 +9,16 @@ function App() {
         <main>
           <Dictionary defaultWord="wine" />
         </main>
-        <footer className="text-center">Coded by Milena Savatovic</footer>
+        <footer className="text-center">
+          Coded by
+          <a
+            href="https://github.com/MilenaSavatovic/dictionary-project"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Milena Savatovic
+          </a>
+        </footer>
       </div>
     </div>
   )
