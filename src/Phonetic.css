@@ -3,7 +3,8 @@
 }
 
 .Phonetic a {
-  border: 1px solid #ddd;
+  background-color: #ddd;
+  border: 1px solid #596981;
   text-decoration: none;
   padding: 8px 15px;
   border-radius: 20px;
